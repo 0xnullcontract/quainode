@@ -73,7 +73,7 @@
 
 ## Log'ları Kontrol Ediyoruz
 
-# Zone Kısmına Slience bölgesi hangisini seçtiyseniz onla değiştirin. Örnek zone-0-1.log,zone-2-2.log,zone-2-1.log gibi...
+### Zone Kısmına Slience bölgesi hangisini seçtiyseniz onla değiştirin. Örnek zone-0-1.log,zone-2-2.log,zone-2-1.log gibi...
 > `tail -f nodelogs/zone-0-0.log`
 
 ### CTRL + C Çıkış yapıyoruz.
